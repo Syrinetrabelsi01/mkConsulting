@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/syrine/Downloads/mk consulting/test/test.csproj": {}
+    "/Users/syrine/mk consulting/test/test.csproj": {}
   },
   "projects": {
-    "/Users/syrine/Downloads/mk consulting/test/test.csproj": {
+    "/Users/syrine/mk consulting/test/test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/syrine/Downloads/mk consulting/test/test.csproj",
+        "projectUniqueName": "/Users/syrine/mk consulting/test/test.csproj",
         "projectName": "test",
-        "projectPath": "/Users/syrine/Downloads/mk consulting/test/test.csproj",
+        "projectPath": "/Users/syrine/mk consulting/test/test.csproj",
         "packagesPath": "/Users/syrine/.nuget/packages/",
-        "outputPath": "/Users/syrine/Downloads/mk consulting/test/obj/",
+        "outputPath": "/Users/syrine/mk consulting/test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/syrine/.nuget/NuGet/NuGet.Config"
